@@ -1,1 +1,57 @@
+body{
+        background-color: blue;
+}
 
+#calculator{
+        width: 400px;
+        height: 470px;
+        background-color: white;
+        margin: 0 auto;
+}
+
+#result-bar{
+        height 120px;
+}
+
+#result{
+        height: 80px;
+        text-align: right;
+        font-size: 40px;
+        background:#f3f3f3
+}
+
+#comands{
+        height: 440px;
+}
+
+.operator{
+        width: 70px;
+        height: 50px;
+        margin: 15px;
+        float: left;
+        font-size: 15px;
+}
+
+.number{
+        width: 70px;
+        height: 50px;
+        margin: 15px;
+        float: left;
+        font-size: 15px;
+}
+
+#displayCalc{
+  width: 95%;
+        height: 40px;
+  font-family:arial;
+  text-align: right;
+  background:#f3f3f3;
+}
+
+#resultCalc{
+        width: 95%;
+        height: 40px;
+        text-align: right;
+        font-size:24px;
+        font-family:arial
+}
