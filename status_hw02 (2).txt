@@ -1,0 +1,52 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Jonathan Abadi
+
+
+2. What hostname did you deploy to?
+http://hw02.abadij.com/
+
+Part A: http://animal.abadij.com/
+Part B: http://calculator.abadij.com/
+
+
+3. What's the link to your repository on github with your code?
+https://github.com/Johnny018/hw02-cs4550.git
+
+
+4. How many HTML / CSS tutorial exercises did you do?
+2 tutorials
+
+
+5. How comfortable do you feel with HTML and CSS now?
+Very good
+
+
+6. How many JS tutorial exercises did you do?
+I did 1 but needed to look a lot through w3school.
+
+
+7. How comfortable do you feel with JS now?
+Not smooch, need more work on it, it's my first time.
+
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Yes
+
+
+9. Which parts of this assignment did you have trouble with, if any?
+The js file was the most difficult
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
